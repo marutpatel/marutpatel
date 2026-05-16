@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Marut Patel 👋
 
-<!--
-**marutpatel/marutpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔨 Building AI automation tools  
+🏢 Operations & Project Management @ Rapidise  
+🎯 Goal: AI Product Builder → Founder → CXO  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack (building)
+![Python](https://img.shields.io/badge/Python-Learning-blue)
+![Claude API](https://img.shields.io/badge/Claude_API-Next-orange)
+![Automation](https://img.shields.io/badge/Automation-Zapier%20%7C%20Make-green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marutpatel-blue)](https://linkedin.com/in/marut-patel)
